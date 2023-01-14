@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "John Connor",
+        "age": 18,
+        "classroom_id": 2
+    },
+    {
+        "id": 2,
+        "name": "Jason Mayer",
+        "age": 25,
+        "classroom_id": 1
+    }
+]

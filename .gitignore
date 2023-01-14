@@ -1,0 +1,4 @@
+solution.py
+results.csv
+*.swp
+*__pycache__
